@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "effectiveDate": "02/03/2020",
+    "status": "PAID",
+    "price": 290
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "effectiveDate": "02/01/2020",
+    "status": "WAITING",
+    "price": 1234
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "effectiveDate": "31/02/2020",
+    "status": "PAID",
+    "price": 123
+  },
+  {
+    "id": 4,
+    "productId": 2,
+    "effectiveDate": "02/03/2019",
+    "status": "WAITING",
+    "price": 321
+  },
+  {
+    "id": 5,
+    "productId": 4,
+    "effectiveDate": "28/09/2018",
+    "status": "PAID",
+    "price": 33
+  },
+  {
+    "id": 1,
+    "productId": 4,
+    "effectiveDate": "02/03/2010",
+    "status": "PAID",
+    "price": 33
+  }
+]

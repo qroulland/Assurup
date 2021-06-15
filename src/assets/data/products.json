@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "responsabilité civile professionnelle",
+    "description": "C'est l'assurance vie de votre société. Parfois obligatoire mais fortement recommandée, elle protège votre activité; ainsi que vos salariés."
+  },
+  {
+    "id": 2,
+    "name": "cyber-risques",
+    "description": "Fuite d'eau, fenêtre cassée, dégradations... Assurer vos bureaux ou locaux commerciaux permet de vous protéger contre les multiples risques auxquels ils sont exposés, ainsi que contre les éventuels dommages collatéraux qu'ils peuvent provoquer."
+  },
+  {
+    "id": 3,
+    "name": "bureau / locaux",
+    "description": "La prévoyance protège l'assuré en cas d’arrêt de travail, d’invalidité, d’incapacité permanente ou de décès. Afin de permettre à vos salariés et à leurs familles d'être mieux indemnisés, votre entreprise peut souscrire un contrat de prévoyance collective."
+  },
+  {
+    "id": 4,
+    "name": "prévoyance",
+    "description": "Virus, piratage, malveillance informatique... Cela ne concerne pas uniquement les grandes entreprises ! Les cyber-risques sont devenus une réalité qui peut gravement impacter votre activité, mais aussi votre image."
+  }
+]
