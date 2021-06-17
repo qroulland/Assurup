@@ -1,0 +1,13 @@
+#containerApp {
+  display: flex;
+  flex-wrap: nowrap;
+  height: 100vh;
+  max-height: 100vh;
+  overflow-x: auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+  padding: 2rem 2rem 2rem 19.5rem;
+  width: 100%;
+}

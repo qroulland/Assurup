@@ -16,7 +16,7 @@
   {
     "id": 3,
     "productId": 3,
-    "effectiveDate": "31/02/2020",
+    "effectiveDate": "31/03/2020",
     "status": "PAID",
     "price": 123
   },
@@ -35,7 +35,7 @@
     "price": 33
   },
   {
-    "id": 1,
+    "id": 6,
     "productId": 4,
     "effectiveDate": "02/03/2010",
     "status": "PAID",

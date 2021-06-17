@@ -1,0 +1,20 @@
+.sort-indicator {
+  margin-left: .5rem;
+
+  &.asc {
+    .fa-sort-up {
+      opacity: .5;
+    }
+  }
+
+  &.desc {
+    .fa-sort-down {
+      opacity: .5;
+    }
+  } 
+
+  .fa-sort-down {
+    position: relative;
+    left: -10px;
+  }
+}

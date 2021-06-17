@@ -1,0 +1,23 @@
+@import 'variable.scss';
+
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import 'node_modules/@fortawesome/fontawesome-free/scss/solid.scss';
+@import 'node_modules/@fortawesome/fontawesome-free/scss/regular.scss';
+
+
+@import 'base/body';
+@import 'base/colors';
+@import 'base/typography';
+
+@import 'components/button';
+@import 'components/sort';
+@import 'components/table';
+
+@import 'layout/sidebar';
+
+@import 'page/contract';
+@import 'page/home';
+@import 'page/products';
+
+@import 'transition/fade';
